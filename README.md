@@ -23,11 +23,11 @@ system using this so that prior arrangements are made to save life👫 and prope
 
 #### A bird eye view of what we use under the hood🔍 : 
 
-- __K-Nearest Neighbours__
-- __Logistic Regression__
-- __Support Vector Machines__
-- __Decision Trees__
-- __Random Forest__
+- __K-Nearest Neighbours(KNN)__
+- __Logistic Regression(LR)__
+- __Support Vector Machines(SVM)__
+- __Decision Trees(DT)__
+- __Random Forest(RF)__
 
 ![predict](https://media.giphy.com/media/lBHAc8L36J2j6/giphy.gif)
 
@@ -38,7 +38,9 @@ shared by India Meteorological Department(IMD),Govt. of India under [Government 
 
 #### Results📊 :
 
-[results](https://github.com/smaranjitghose/floodater/blob/master/assets/result.png)
+![results](https://github.com/smaranjitghose/floodater/blob/master/assets/results.png)
+
+We can clearly see that using Logistic Regression, we get the highest accuracy 🥇and hence we can use it for our automatic flood alert system
 
 # License 📜
 
